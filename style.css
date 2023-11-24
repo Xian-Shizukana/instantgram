@@ -23,7 +23,7 @@
 #facebook {
     background-color: 	#1877F2;
     border-radius: 5px;
-    display: flex;
+    display:block;
     width: 70%;
     margin-left: auto;
     margin-right: auto;
@@ -31,12 +31,28 @@
     color: white;
     padding: 10px;
     font-weight:bold;
+    text-align: center;
+}
+
+#signup {
+    background-color: 	#1877F2;
+    border-radius: 5px;
+    display: block;
+    width: 82%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    color: white;
+    padding: 10px;
+    font-weight:bold;
+    text-align: center;
 }
 
 #list {
     font-family:Calibri;
     margin:auto;
-    width: 53%;
+    width: 54%;
 }
 
 input {
